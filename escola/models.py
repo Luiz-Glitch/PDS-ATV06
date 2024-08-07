@@ -17,5 +17,3 @@ class Materia(models.Model):
     def __str__(self):
         return self.nome
     
-# criar os models aluno e professor e receber Escola e Materia
-
